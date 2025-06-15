@@ -1,14 +1,14 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'pablotoro1988@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/ExequielToro?tab=repositories',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/exequieltoro1988/',
     },
     {
       name: 'Twitter',
@@ -16,29 +16,25 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://linkedin.com/in/pabloexequieltoro',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
+      name: 'Acerca de',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Experiencia',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Trabajos',
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Contactos',
       url: '/#contact',
     },
   ],
