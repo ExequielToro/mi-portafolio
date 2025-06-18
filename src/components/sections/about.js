@@ -129,16 +129,15 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Sobre mí</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              ¡Hola! Me llamo Pablo y disfruto creando contenido para internet. Mi interés por el
+              desarrollo web empezó en 2018, cuando decidí probar a editar temas personalizados de
+              Tumblr. HTML &amp; CSS!
             </p>
 
             <p>
@@ -173,7 +172,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/p-t.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

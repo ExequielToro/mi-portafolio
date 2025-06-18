@@ -11,8 +11,8 @@ const variables = css`
     --slate: #8892b0;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
-    --white: #e6f1ff;
-    --green: #64ffda;
+    --white: rgb(230, 253, 255);
+    --green: rgb(248, 244, 140);
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
