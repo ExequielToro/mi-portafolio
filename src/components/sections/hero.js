@@ -67,19 +67,19 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Soy Pablo Toro, Ingeniero en Informática y constructor de ideas que cobran vida en la web.
-        Me dedico a crear experiencias digitales que no solo funcionan, sino que sorprenden. 💡
-        Desde una API bien pensada hasta una interfaz que enamora, combino backend y frontend para
-        desarrollar soluciones modernas, escalables y centradas en las personas. ¿Mi meta? Que cada
-        línea de código tenga un propósito y que cada proyecto hable por sí solo. ¿Café en mano y
-        hablamos de tecnología?{' '}
+        Ingeniero en Informática y constructor de ideas que cobran vida en la web. Me dedico a crear
+        experiencias digitales que no solo funcionan, sino que sorprenden. 💡 Desde una API bien
+        pensada hasta una interfaz que enamora, combino backend y frontend para desarrollar
+        soluciones modernas, escalables y centradas en las personas. ¿Mi meta? Que cada línea de
+        código tenga un propósito y que cada proyecto hable por sí solo. ¿Café en mano y hablamos de
+        tecnología?{' '}
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/ExequielToro?tab=repositories"
       target="_blank"
       rel="noreferrer">
       Mira mí proyecto de microservicios!

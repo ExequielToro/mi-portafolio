@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2025-06-20'
+title: 'Gestión y Control-Práctica Profesional'
+company: 'GreenCup'
+location: 'La pintana - Región Metropolitana'
+range: 'Julio 2025 - Actualidad'
+url: 'https://greencup.cl//'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Desarrollo y mantención de código robusto y funcional enfocado en la gestión interna de la empresa, asegurando la calidad del producto y optimizando los procesos operativos.
+- Participación activa en la supervisión de la calidad del producto, colaborando con distintas áreas para garantizar estándares técnicos y operativos
+- Lideré el desarrollo de un sistema de bodega como parte de mi práctica profesional, con el objetivo de organizar y controlar de forma eficiente el inventario y los procesos de almacenamiento.
+- Trabajo colaborativo con distintas áreas internas para alinear las soluciones tecnológicas con las necesidades del negocio y mejorar la eficiencia operativa

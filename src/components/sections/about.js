@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Java (SOAP, Apache Tomcat)',
+    'Python (Django)',
+    'HTML, CSS, JavaScript',
+    'Oracle Database',
+    'React (aprendiendo)',
+    'Git & GitHub',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,29 +142,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              ¡Hola! Me llamo Pablo y disfruto creando contenido para internet. Mi interés por el
-              desarrollo web empezó en 2018, cuando decidí probar a editar temas personalizados de
-              Tumblr. HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              ¡Hola! Mi nombre es Pablo Toro y soy Ingeniero en Informática. Desde niño he sentido
+              una gran curiosidad por la tecnología, especialmente por los videojuegos. Siempre me
+              fascinó entender cómo se creaban y funcionaban, lo que me llevó con el tiempo a
+              estudiar Ingeniería en Informática y a dedicarme al desarrollo de software. Durante mi
+              formación he desarrollado diversos proyectos, entre ellos un sistema de microservicios
+              SOAP en Java conectado a una base de datos Oracle, y una tienda online construida con
+              Django, que incluye integración de pagos con Mercado Pago y gestión de usuarios con
+              roles de administrador y cliente. Actualmente, mi enfoque está en crear productos
+              digitales funcionales, accesibles e inclusivos, aplicando buenas prácticas de
+              desarrollo tanto en frontend como en backend. Me encuentro en constante aprendizaje,
+              perfeccionando mis habilidades y explorando nuevas tecnologías para aportar valor en
+              cada proyecto.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
