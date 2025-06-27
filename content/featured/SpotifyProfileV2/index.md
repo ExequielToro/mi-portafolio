@@ -1,16 +1,20 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Tienda Online-Consumiendo WSDL'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://github.com/ExequielToro/mi-tienda-online'
+cta: 'pablotoro1988@gmail.com'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Python
+  - Django
+  - SOAP WSDL
+  - Mercado Pago
+  - Visual Studio Code
+  - Git
+  - SQLite/Oracle
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Este proyecto consiste en una tienda online desarrollada con Django, que permite a los usuarios navegar por un catálogo de productos, agregarlos al carrito y realizar compras mediante la integración con Mercado Pago. Lo más destacado del sistema es su integración en tiempo real con un sistema de bodega desarrollado en Java, desde donde se obtiene el stock de productos utilizando servicios SOAP a través de un archivo WSDL. La tienda consume estos servicios para mantener sincronizado el inventario entre ambas plataformas. Además, cuenta con un sistema de autenticación y gestión de roles, permitiendo a los usuarios registrarse como clientes o administradores, quienes pueden visualizar pedidos y gestionar productos. Este proyecto demuestra la integración efectiva entre tecnologías backend heterogéneas, ofreciendo una solución robusta y escalable para comercio electrónico conectado a sistemas externos.

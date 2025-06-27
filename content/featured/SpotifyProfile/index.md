@@ -1,15 +1,18 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Procedimientos Almacenados'
+cover: './proce.png'
+github: ''
+external: 'https://github.com/ExequielToro/sistema-microservicios-soap/blob/main/database/init-database.sql'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Java
+  - PL/SQL
+  - Oracle database
+  - JDBC
+  - CallableStatement
+  - Apache Tomcat
+  - SoapUI
+  - Oracle SQL Developer
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Este sistema utiliza procedimientos almacenados (stored procedures) desarrollados en Oracle PL/SQL para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre la base de datos, los cuales son invocados desde una aplicación Java mediante llamadas JDBC (Java Database Connectivity)

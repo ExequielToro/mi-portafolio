@@ -1,14 +1,16 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: '2023-05-12'
+title: 'Proyecto de Bodega Java'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://github.com/ExequielToro/sistema-microservicios-soap'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Java
+  - Apache Netbeans
+  - Apache Tomcat
+  - Oracle Developer
+  - Soap UI
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Este sistema está desarrollado en Java y se conecta a una base de datos Oracle mediante procedimientos almacenados
