@@ -383,8 +383,11 @@ const Featured = () => {
 
                     <div className="project-links">
                       {cta && (
-                        <a href={cta} aria-label="Course Link" className="cta">
-                          Fascinante cierto..!! Contáctame .
+                        <a
+                          href="mailto:pablotoro1988@gmail.com"
+                          aria-label="Correo electrónico"
+                          className="cta">
+                          Fascinante cierto..!! Contáctame.
                         </a>
                       )}
                       {github && (

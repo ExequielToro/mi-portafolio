@@ -1,7 +1,7 @@
 ---
-date: '2023-05-12'
+date: '2025-05-12'
 title: 'Proyecto de Bodega Java'
-github: ''
+github: 'https://github.com/ExequielToro/sistema-microservicios-soap'
 external: 'https://github.com/ExequielToro/sistema-microservicios-soap'
 tech:
   - Java
@@ -9,7 +9,7 @@ tech:
   - Apache Tomcat
   - Oracle Developer
   - Soap UI
-company: 'Upstatement'
+company: 'Personal'
 showInProjects: true
 ---
 

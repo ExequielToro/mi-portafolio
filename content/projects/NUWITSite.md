@@ -1,5 +1,5 @@
 ---
-date: '2015-12-20'
+date: '2025-12-01'
 title: 'TIENDA-ONLINE'
 github: 'https://github.com/ExequielToro/mi-tienda-online'
 external: 'https://github.com/ExequielToro/mi-tienda-online'
@@ -14,7 +14,7 @@ tech:
   - Visual Studio Code
   - Git
   - SQLite/Oracle
-company: 'Northeastern'
+company: 'Personal'
 showInProjects: true
 ---
 

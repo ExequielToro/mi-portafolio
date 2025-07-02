@@ -1,6 +1,6 @@
 ---
-date: '2020-01-10'
-title: 'Procesos almacenados'
+date: '2025-01-10'
+title: 'Procedimientos almacenados'
 github: 'https://github.com/ExequielToro/sistema-microservicios-soap/blob/main/database/init-database.sql'
 external: 'https://github.com/ExequielToro/sistema-microservicios-soap/blob/main/database/init-database.sql'
 tech:
@@ -12,7 +12,7 @@ tech:
   - Apache Tomcat
   - SoapUI
   - Oracle SQL Developer
-company: ''
+company: 'Personal'
 showInProjects: true
 ---
 

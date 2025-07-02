@@ -15,4 +15,4 @@ tech:
   - Oracle SQL Developer
 ---
 
-Este sistema utiliza procedimientos almacenados (stored procedures) desarrollados en Oracle PL/SQL para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre la base de datos, los cuales son invocados desde una aplicación Java mediante llamadas JDBC (Java Database Connectivity)
+Este sistema utiliza procedimientos almacenados (stored procedures) desarrollados en Oracle PL/SQL para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre la base de datos, los cuales son invocados desde la aplicación Java que esta un poco más arriba 👆, mediante llamadas JDBC (Java Database Connectivity)
