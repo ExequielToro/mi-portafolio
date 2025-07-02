@@ -1,13 +1,13 @@
 ---
-date: '2025-06-23'
-title: 'Analisis-Diseño'
-company: 'Eynaudi S.A'
-location: 'Maipú-Región Metropolitana'
-range: 'Marzo 2015 - 2018'
-url: 'https://eynaudi.cl/'
+date: '2025-07-09'
+title: 'Gestión y Control-Práctica Profesional'
+company: 'GreenCup'
+location: 'La pintana - Región Metropolitana'
+range: 'Julio 2025 - Actualidad'
+url: 'https://greencup.cl//'
 ---
 
-- Realicé controles de calidad y verificación de diseños mediante software de edición profesional, asegurando cumplimiento con especificaciones técnicas exigentes
-- Participé en la configuración y calibración de hardware especializado para la creación de planchas mediante tecnología CTP (Computer to Plate)
-- Aporté a la optimización del flujo de trabajo en entornos regulados, reforzando procesos críticos de producción gráfica
-- Consolidé habilidades en control de calidad, gestión de preprensa técnica y operación de sistemas de impresión digital avanzada
+- Desarrollo y mantención de código robusto y funcional enfocado en la gestión interna de la empresa, asegurando la calidad del producto y optimizando los procesos operativos.
+- Participación activa en la supervisión de la calidad del producto, colaborando con distintas áreas para garantizar estándares técnicos y operativos
+- Lideré el desarrollo de un sistema de bodega como parte de mi práctica profesional, con el objetivo de organizar y controlar de forma eficiente el inventario y los procesos de almacenamiento.
+- Trabajo colaborativo con distintas áreas internas para alinear las soluciones tecnológicas con las necesidades del negocio y mejorar la eficiencia operativa

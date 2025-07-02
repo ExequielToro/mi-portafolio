@@ -1,13 +1,21 @@
 ---
 date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+title: 'TIENDA-ONLINE'
+github: 'https://github.com/ExequielToro/mi-tienda-online'
+external: 'https://github.com/ExequielToro/mi-tienda-online'
 tech:
-  - Jekyll
-  - Bootstrap
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Python
+  - Django
+  - SOAP WSDL
+  - Mercado Pago
+  - Visual Studio Code
+  - Git
+  - SQLite/Oracle
 company: 'Northeastern'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech’s club website using Jekyll, built while serving as web chair on the e-board.
+Tienda online desarrollada en Django se conecta con el sistema de bodega desarrollado en Java mediante microservicios SOAP. Estos microservicios, a su vez, interactúan con procedimientos almacenados en Oracle

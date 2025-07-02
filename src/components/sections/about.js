@@ -126,7 +126,7 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Java (SOAP, Apache Tomcat)',
+    'Java (SOAP & REST, Apache Tomcat)',
     'Python (Django)',
     'HTML, CSS, JavaScript',
     'Oracle Database',

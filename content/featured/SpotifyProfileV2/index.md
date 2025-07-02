@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Tienda Online-Consumiendo WSDL'
-cover: './course-card.png'
+cover: './tienda-onlinee.png'
 external: 'https://github.com/ExequielToro/mi-tienda-online'
 cta: 'pablotoro1988@gmail.com'
 tech:
