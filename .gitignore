@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.cache/
+public/render-page.js.map
+*.log
+
+# Mac
+.DS_Store
+
+# Build
+dist/
+build/
+
+# Env
+.env
