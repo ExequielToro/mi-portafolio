@@ -60,19 +60,18 @@ const Hero = () => {
   }, []);
 
   const one = (
-    <h1>🖐️ ¡Hola! No soy un robot… 🤖todavía. Pero te quiero contar un poco sobre mí;</h1>
+    <h1>Gracias por tomarte el tiempo de llegar hasta aquí. Quisiera contarte un poco sobre mí:</h1>
   );
   const two = <h2 className="big-heading">Pablo Toro</h2>;
   const three = <h3 className="big-heading">&quot;Ingeniero en Informática&quot;</h3>;
   const four = (
     <>
       <p>
-        Ingeniero en Informática y constructor de ideas que cobran vida en la web. Me dedico a crear
-        experiencias digitales que no solo funcionan, sino que sorprenden. 💡 Desde una API bien
-        pensada hasta una interfaz que enamora, combino backend y frontend para desarrollar
-        soluciones modernas, escalables y centradas en las personas. ¿Mi meta? Que cada línea de
-        código tenga un propósito y que cada proyecto hable por sí solo. ¿Café en mano y hablamos de
-        tecnología?{' '}
+        Constructor de ideas que cobran vida en la web. Me dedico a crear experiencias digitales que
+        no solo funcionan, sino que sorprenden. Desde una API bien pensada hasta una interfaz que
+        enamora, combino backend y frontend para desarrollar soluciones modernas, escalables y
+        centradas en las personas. ¿Mi meta? Que cada línea de código tenga un propósito y que cada
+        proyecto hable por sí solo. ¿Café en mano y hablamos de tecnología?{' '}
       </p>
     </>
   );

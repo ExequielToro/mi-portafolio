@@ -130,7 +130,7 @@ const About = () => {
     'Python (Django)',
     'HTML, CSS, JavaScript',
     'Oracle Database',
-    'React (aprendiendo)',
+    'Flutter (aprendiendo)',
     'Git & GitHub',
   ];
 
@@ -142,18 +142,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              ¡Hola! Mi nombre es Pablo Toro y soy Ingeniero en Informática. Desde niño he sentido
-              una gran curiosidad por la tecnología, especialmente por los videojuegos. Siempre me
-              fascinó entender cómo se creaban y funcionaban, lo que me llevó con el tiempo a
-              estudiar Ingeniería en Informática y a dedicarme al desarrollo de software. Durante mi
-              formación he desarrollado diversos proyectos, entre ellos un sistema de microservicios
-              SOAP en Java conectado a una base de datos Oracle, y una tienda online construida con
-              Django, que incluye integración de pagos con Mercado Pago y gestión de usuarios con
+              ¡Hola! Soy Pablo Exequiel. Desde niño he sentido una profunda curiosidad por la
+              tecnología, especialmente por los videojuegos. Siempre me intrigó entender cómo se
+              creaban y funcionaban, interés que con el tiempo me llevó a estudiar Ingeniería en
+              Informática y a orientarme hacia el desarrollo de software. Durante mi formación he
+              trabajado en diversos proyectos, entre ellos un sistema de microservicios SOAP en Java
+              conectado a una base de datos Oracle, y una tienda online desarrollada en Django, con
+              integración de pagos mediante Mercado Pago y un sistema de gestión de usuarios con
               roles de administrador y cliente. Actualmente, mi enfoque está en crear productos
               digitales funcionales, accesibles e inclusivos, aplicando buenas prácticas de
               desarrollo tanto en frontend como en backend. Me encuentro en constante aprendizaje,
-              perfeccionando mis habilidades y explorando nuevas tecnologías para aportar valor en
-              cada proyecto.
+              perfeccionando mis habilidades y explorando nuevas tecnologías para aportar valor real
+              en cada proyecto.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
