@@ -208,7 +208,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/CV_Pablo_T_2025.pdf"
+      href="/Cv-pt-2026.pdf"
       target="_blank"
       rel="noopener noreferrer">
       Curriculum Vitae
