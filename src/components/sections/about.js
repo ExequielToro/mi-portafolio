@@ -142,9 +142,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              ¡Hola! Soy Pablo Exequiel. Desde niño he sentido una profunda curiosidad por la tecnología, especialmente por los videojuegos. Siempre me intrigó entender cómo se creaban y funcionaban, interés que con el tiempo me llevó a estudiar Ingeniería en Informática y a orientarme hacia el desarrollo de software.
-Durante mi formación he trabajado en diversos proyectos, entre ellos un sistema de microservicios SOAP en Java conectado a una base de datos Oracle, y una tienda online desarrollada en Django, con integración de pagos mediante Mercado Pago y un sistema de gestión de usuarios con roles de administrador y cliente.
-Actualmente, mi enfoque está en crear productos digitales funcionales, accesibles e inclusivos, aplicando buenas prácticas de desarrollo tanto en frontend como en backend. Me encuentro en constante aprendizaje, perfeccionando mis habilidades y explorando nuevas tecnologías para aportar valor real en cada proyecto.
+              ¡Hola! Soy Pablo Exequiel Toro, Ingeniero en Informática. Mi experiencia integra el desarrollo de software con los procesos productivos y gráficos, lo que me ha permitido desarrollar una visión amplia sobre la calidad, la eficiencia operativa y la mejora continua. Me formé en la Escuela de Artes Gráficas, donde adquirí conocimientos en diseño, preprensa e impresión offset, flexográfica y digital, fortaleciendo habilidades relacionadas con el control de calidad, la atención al detalle y la optimización de procesos. A lo largo de mi trayectoria he participado en proyectos de desarrollo de software, incluyendo sistemas basados en microservicios SOAP con Java y Oracle Database, así como aplicaciones web desarrolladas en Django con integración de pagos y gestión de usuarios. Paralelamente, he colaborado en la digitalización y mejora de procesos productivos mediante herramientas tecnológicas, combinando conocimientos técnicos y experiencia operativa para aportar soluciones prácticas y eficientes. Me motiva participar en proyectos que generen impacto real, aportando análisis, creatividad, aprendizaje constante y una fuerte orientación a la resolución de problemas.
+
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

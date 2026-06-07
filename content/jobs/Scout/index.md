@@ -3,7 +3,7 @@ date: '2025-07-09'
 title: 'Gestión y Control-Práctica Profesional'
 company: 'GreenCup'
 location: 'La pintana - Región Metropolitana'
-range: 'Julio 2025 - Actualidad'
+range: 'enero 2023 - Actualidad'
 url: 'https://greencup.cl//'
 ---
 
