@@ -1,6 +1,6 @@
 ---
 date: '2017-12-21'
-title: 'Gestión y Control'
+title: 'Coordinador de Impresiones Gráficas.'
 company: 'Casa Moneda de Chile'
 location: 'Quinta normal, Región Metropolitana'
 range: 'Enero 2019 - December 2021'

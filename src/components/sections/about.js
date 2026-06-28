@@ -141,10 +141,13 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              ¡Hola! Soy Pablo Exequiel Toro, Ingeniero en Informática. Mi experiencia integra el desarrollo de software con los procesos productivos y gráficos, lo que me ha permitido desarrollar una visión amplia sobre la calidad, la eficiencia operativa y la mejora continua. Me formé en la Escuela de Artes Gráficas, donde adquirí conocimientos en diseño, preprensa e impresión offset, flexográfica y digital, fortaleciendo habilidades relacionadas con el control de calidad, la atención al detalle y la optimización de procesos. A lo largo de mi trayectoria he participado en proyectos de desarrollo de software, incluyendo sistemas basados en microservicios SOAP con Java y Oracle Database, así como aplicaciones web desarrolladas en Django con integración de pagos y gestión de usuarios. Paralelamente, he colaborado en la digitalización y mejora de procesos productivos mediante herramientas tecnológicas, combinando conocimientos técnicos y experiencia operativa para aportar soluciones prácticas y eficientes. Me motiva participar en proyectos que generen impacto real, aportando análisis, creatividad, aprendizaje constante y una fuerte orientación a la resolución de problemas.
-
-            </p>
+            <ul>
+              <li>¡Hola! Soy Pablo Exequiel Toro, Ingeniero en Informática, con formación previa en Artes Gráficas. Mi perfil integra el desarrollo de software, la integración de sistemas y el análisis de procesos, permitiéndome abordar soluciones desde una perspectiva técnica y operativa.</li>
+              <li>He desarrollado soluciones utilizando Java, Python, Django, Oracle, SQL, HTML, CSS y JavaScript, destacando la implementación de una arquitectura de microservicios SOAP integrada con una tienda online, gestión de inventario en tiempo real e integración de pagos mediante Mercado Pago.</li>
+              <li>También tengo conocimientos en aseguramiento de calidad (QA), automatización de pruebas con Selenium, Postman, SoapUI y JUnit, además de análisis de datos con Power BI y proyectos académicos en Google Cloud Platform orientados a ingeniería de datos.</li>
+              <li>Mi experiencia en la industria gráfica ha fortalecido competencias en control de calidad, mejora continua, trazabilidad, coordinación de equipos y digitalización de procesos, que complemento con mi formación en ingeniería para desarrollar soluciones tecnológicas orientadas a problemas reales.</li>
+              <li>Este portafolio reúne proyectos que reflejan mi crecimiento profesional, mi interés por el desarrollo de software de calidad, la integración de sistemas y la aplicación de tecnología en la optimización de procesos.</li>
+            </ul>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

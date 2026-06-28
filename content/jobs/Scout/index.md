@@ -1,13 +1,16 @@
 ---
 date: '2025-07-09'
-title: 'Gestión y Control-Práctica Profesional'
+title: 'Técnico Gráfico | Digitalización de Procesos'
 company: 'GreenCup'
 location: 'La pintana - Región Metropolitana'
-range: 'enero 2023 - Actualidad'
+range: 'enero 2022 - Actualidad'
 url: 'https://greencup.cl//'
 ---
 
-- Desarrollo y mantención de código robusto y funcional enfocado en la gestión interna de la empresa, asegurando la calidad del producto y optimizando los procesos operativos.
-- Participación activa en la supervisión de la calidad del producto, colaborando con distintas áreas para garantizar estándares técnicos y operativos
-- Lideré el desarrollo de un sistema de bodega como parte de mi práctica profesional, con el objetivo de organizar y controlar de forma eficiente el inventario y los procesos de almacenamiento.
-- Trabajo colaborativo con distintas áreas internas para alinear las soluciones tecnológicas con las necesidades del negocio y mejorar la eficiencia operativa
+- Validación técnica de diseños antes de su envío a preprensa externa.
+- Evaluación de pruebas de impresión y aprobación de colores junto a proveedores para verificar estándares de calidad.
+- Coordinación con distintas áreas y proveedores para apoyar la continuidad del proceso productivo.
+- Requerimientos de cada diseño otorgado por el cliente durante el proceso productivo.
+- Capacitación y acompañamiento de nuevos colaboradores en los procesos del área de impresión.
+- Participación en iniciativas de mejora y digitalización de procesos.
+
