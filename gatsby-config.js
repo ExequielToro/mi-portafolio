@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Pablo Toro',
     description:
-      'Portafolio de Pablo Exequiel Toro Arias, Ingeniero en Informática especializado en desarrollo backend con Java, Python/Django, microservicios y bases de datos.'
+      'Portafolio de Pablo Exequiel Toro Arias, Ingeniero en Informática especializado en desarrollo backend con Java, Python/Django, microservicios y bases de datos.',
     siteUrl: 'https://mi-portafolio-puce-mu.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: 'x.com/Pablo_E_T715661',
+    twitterUsername: '@Pablo_E_T715661',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
